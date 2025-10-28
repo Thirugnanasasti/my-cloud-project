@@ -1,1 +1,1 @@
-# my-cloud-project
+# Static Website Hosting using GitHub Pages
